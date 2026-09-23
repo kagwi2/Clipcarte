@@ -1,0 +1,6 @@
+{
+  "name": "ClipCraft - YouTube & Video Shorts Clipper",
+  "description": "Transform YouTube videos and clips into viral 9:16 Shorts, Reels, and TikToks with auto-captions, custom styling, and manual caption editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
